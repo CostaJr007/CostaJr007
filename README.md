@@ -1,17 +1,17 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                         COSTA JR · README                        ║ -->
-<!-- ║        Full-Stack · Quant Developer · Multi-Agent AI             ║ -->
+<!-- ║                Data Engineer · SecOps · Analyst                  ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ─────────────────────────  HERO BANNER  ───────────────────────── -->
 <!-- Hand-coded animated SVG: drifting particles, breathing glow, gradient wipe, typewriter subtitle, neural-net constellation -->
 <a href="https://github.com/CostaJr007">
-  <img src="./assets/banner.svg" alt="Costa Jr · Full-Stack & Quant Developer" width="100%" />
+  <img src="./assets/banner.svg" alt="Adeilson da Costa · Data Engineer & SecOps" width="100%" />
 </a>
 
 <!-- ─────────────────────  ANIMATED TYPING TAGLINE  ───────────────── -->
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=30&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=820&height=60&lines=Full-Stack+Software+Engineer;Algorithmic+Trading+%26+Fintech;Building+Multi-Agent+AI+Systems;TypeScript+%C2%B7+C%23+%C2%B7+Python;Based+in+Ottawa" alt="Rotating tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=30&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=820&height=60&lines=Data+Engineer+%26+SecOps;Google+SecOps+%28SIEM%2FSOAR%29;GCP+%C2%B7+BigQuery+%C2%B7+Looker;Python+%C2%B7+SQL+%C2%B7+ETL%2FELT;Applied+Mathematics;Based+in+Ottawa" alt="Rotating tagline" />
 </div>
 
 <!-- ─────────────────────────  STATUS BADGES  ─────────────────────── -->
@@ -37,20 +37,19 @@
 </div>
 
 ```yaml
-name:       Costa Jr
-role:       Full-Stack Software Engineer & Quant Developer
-focus:      Fintech Architectures, Algorithmic Trading Systems & Multi-Agent AI
-stack:      TypeScript · Python · C# · Kotlin · Java
-frontend:   React · React Native · Jetpack Compose · TailwindCSS
-quant:      cTrader (cBots) · MQL4 · Cointegration Analysis
-ai:         CrewAI · LLMs · Multi-Agent Orchestration
-location:   Ottawa, Canada
+name:       Adeilson da Costa (Costa Jr)
+role:       Data Engineer & SecOps Analyst
+background: Applied Mathematics & Civil Engineering
+stack:      Python (Pandas, NumPy) · SQL · ETL/ELT Pipelines
+cloud:      GCP (BigQuery, Looker) · LLM Integrations
+security:   Google SecOps (SIEM/SOAR) · Regulatory Compliance
+location:   Ottawa, ON, Canada
 ```
 
-- **Now building** &nbsp;**Fintech architectures**, **algorithmic trading systems**, and **Multi-Agent AI**
-- **Tech Stack** &nbsp;TypeScript, Python, C#, Kotlin, Java, React, React Native, TailwindCSS
-- **Finance & Quant** &nbsp;Plataformas de Pagamento Instantâneo, cTrader (cBots), MQL4, Análise de Cointegração
-- **AI & Automação** &nbsp;CrewAI, LLMs, Python Scripts, Telegram Bots
+- **Now building** &nbsp;**Automated Data Pipelines**, **Security Workflows (SOAR)**, and **Quantitative Models**
+- **Tech Stack** &nbsp;Python, SQL, GCP, BigQuery, Looker, Excel, Jupyter, Prompt Engineering
+- **Security & Compliance** &nbsp;Google SecOps (SIEM/SOAR), Regulatory Documentation, Anomaly Detection
+- **Certifications** &nbsp;Google SecOps & Cybersecurity, GCP Cloud Computing Foundations, Machine Learning Data Prep
 
 <br/>
 
@@ -72,4 +71,4 @@ location:   Ottawa, Canada
 </div>
 
 <br/>
-<p align="center"><i>"Building the future of payments and algorithmic trading, one line of code at a time."</i></p>
+<p align="center"><i>"Automating daily operations and securing cloud environments through code and mathematics."</i></p>

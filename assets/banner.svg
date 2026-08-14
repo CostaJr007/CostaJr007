@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500" width="1500" height="500" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Stephen Sookra — Building trustworthy AI">
-  <title>Costa Jr — Full-Stack & Quant Developer</title>
+  <title>Costa Jr — Data Engineer & SecOps</title>
 
   <defs>
     <style>
@@ -196,7 +196,7 @@
     <text x="750" y="310" text-anchor="middle"
           font-family="'Instrument Serif', 'Cormorant Garamond', 'Playfair Display', Georgia, 'Times New Roman', serif"
           font-style="italic" font-size="92" font-weight="400" letter-spacing="0">
-      <tspan fill="#FFFFFF">Building </tspan><tspan fill="url(#accentText)">Fintech &amp; Quant</tspan><tspan fill="#FFFFFF">.</tspan>
+      <tspan fill="#FFFFFF">Building </tspan><tspan fill="url(#accentText)">Data &amp; SecOps</tspan><tspan fill="#FFFFFF">.</tspan>
     </text>
   </g>
 
@@ -211,7 +211,7 @@
   <g clip-path="url(#footerClip)">
     <text x="750" y="408" text-anchor="middle"
           font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace"
-          font-size="14" font-weight="500" fill="#BF91F3" letter-spacing="4.5">SOFTWARE ENGINEER  ·  QUANT DEVELOPER  ·  OTTAWA</text>
+          font-size="14" font-weight="500" fill="#BF91F3" letter-spacing="4.5">DATA ENGINEER  ·  SECOPS  ·  OTTAWA</text>
   </g>
 
   <!-- Layer 12 — Terminal-window dots (top-right) -->
