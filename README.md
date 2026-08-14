@@ -1,74 +1,69 @@
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                         COSTA JR · README                        ║ -->
-<!-- ║                Data Engineer · SecOps · Analyst                  ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+<!--horizontal divider (gradient)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ─────────────────────────  HERO BANNER  ───────────────────────── -->
-<!-- Hand-coded animated SVG: drifting particles, breathing glow, gradient wipe, typewriter subtitle, neural-net constellation -->
-<a href="https://github.com/CostaJr007">
-  <img src="./assets/banner.svg" alt="Adeilson da Costa · Data Engineer & SecOps" width="100%" />
-</a>
-
-<!-- ─────────────────────  ANIMATED TYPING TAGLINE  ───────────────── -->
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=30&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=820&height=60&lines=Data+Engineer+%26+SecOps;Google+SecOps+%28SIEM%2FSOAR%29;GCP+%C2%B7+BigQuery+%C2%B7+Looker;Python+%C2%B7+SQL+%C2%B7+ETL%2FELT;Applied+Mathematics;Based+in+Ottawa" alt="Rotating tagline" />
-</div>
-
-<!-- ─────────────────────────  STATUS BADGES  ─────────────────────── -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CostaJr007&label=PROFILE+VIEWS&color=9D50FF&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/CostaJr007?label=FOLLOWERS&style=for-the-badge&color=00C9FF&labelColor=1A1B27" alt="GitHub followers" />
-</div>
-
-<br/>
-
-<!-- ════════════════════════  DIVIDER  ════════════════════════ -->
-<img src="./assets/flux-divider.svg" width="100%" alt="" />
-
-<!-- ───────────────────────────  ABOUT  ────────────────────────────── -->
-<div id="about"></div>
-
+<!--Name-->
 <div id="user-content-toc">
-  <ul align="center" style="list-style: none;">
-    <summary>
-      <h2 style="display: inline-block;">About Me</h2>
-    </summary>
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hey, I'm Costa Jr</h1></summary>
   </ul>
 </div>
 
-```yaml
-name:       Adeilson da Costa (Costa Jr)
-role:       Data Engineer & SecOps Analyst
-background: Applied Mathematics & Civil Engineering
-stack:      Python (Pandas, NumPy) · SQL · ETL/ELT Pipelines
-cloud:      GCP (BigQuery, Looker) · LLM Integrations
-security:   Google SecOps (SIEM/SOAR) · Regulatory Compliance
-location:   Ottawa, ON, Canada
-```
+<!--Tagline-->
+<p align="center">
+  Data Engineer & SecOps Analyst based in Ottawa &nbsp;·&nbsp; Securing and Automating Systems
+</p>
 
-- **Now building** &nbsp;**Automated Data Pipelines**, **Security Workflows (SOAR)**, and **Quantitative Models**
-- **Tech Stack** &nbsp;Python, SQL, GCP, BigQuery, Looker, Excel, Jupyter, Prompt Engineering
-- **Security & Compliance** &nbsp;Google SecOps (SIEM/SOAR), Regulatory Documentation, Anomaly Detection
-- **Certifications** &nbsp;Google SecOps & Cybersecurity, GCP Cloud Computing Foundations, Machine Learning Data Prep
+<!--Badges-->
+<p align="center">
+  <img src="https://img.shields.io/badge/☁️_Data_Engineering-555?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🔒_SecOps_%26_SIEM-555?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/📈_Quantitative_Analysis-555?style=flat-square" />
+</p>
 
-<br/>
+<!--horizontal divider (gradient)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ════════════════════════  DIVIDER  ════════════════════════ -->
-<img src="./assets/flux-divider.svg" width="100%" alt="" />
-
-<!-- ─────────────────────────  GITHUB STATS  ─────────────── -->
+<!--About-->
 <div id="user-content-toc">
-  <ul align="center" style="list-style: none;">
-    <summary>
-      <h2 style="display: inline-block;">Analytics</h2>
-    </summary>
+  <ul align="center">
+    <summary><h2 style="display: inline-block">About Me</h2></summary>
   </ul>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CostaJr007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Estatísticas do CostaJr007" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostaJr007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Linguagens Principais" width="48%" />
+
+<p align="center">
+  ✔️ Data Engineer and SecOps Analyst with a background in <strong>Applied Mathematics</strong><br/>
+  ✔️ Currently working on <strong>automated data pipelines, SIEM/SOAR workflows, and quantitative models</strong><br/>
+  ✔️ Learning <strong>Advanced GCP Architecture, Cloud Security, and Prompt Engineering</strong><br/>
+  ✔️ Interested in <strong>ETL/ELT processes, security operations, and anomaly detection</strong><br/>
+  ✔️ Reach me at <a href="mailto:adeilsonjc@gmail.com">adeilsonjc@gmail.com</a> | Ottawa, ON
+</p>
+
+
+
+<!--horizontal divider (gradient)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies & Stats</h2></summary>
+  </ul>
 </div>
 
-<br/>
-<p align="center"><i>"Automating daily operations and securing cloud environments through code and mathematics."</i></p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; background: transparent;">
+  <tr>
+    <td align="center" valign="top" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=python,sql,gcp,git,bash,linux,vscode&perline=4" />
+    </td>
+    <td align="center" valign="top" style="border: none; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostaJr007&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8" />
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=CostaJr007&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<!--horizontal divider (gradient)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
