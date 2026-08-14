@@ -4,8 +4,9 @@
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ─────────────────────────  HERO BANNER  ───────────────────────── -->
+<!-- Hand-coded animated SVG: drifting particles, breathing glow, gradient wipe, typewriter subtitle, neural-net constellation -->
 <a href="https://github.com/CostaJr007">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Costa%20Jr&fontSize=70&fontAlignY=35&desc=Full-Stack%20%26%20Quant%20Developer&descAlignY=55&descSize=20" alt="Costa Jr Banner" width="100%" />
+  <img src="./assets/banner.svg" alt="Costa Jr · Full-Stack & Quant Developer" width="100%" />
 </a>
 
 <!-- ─────────────────────  ANIMATED TYPING TAGLINE  ───────────────── -->
@@ -22,9 +23,11 @@
 <br/>
 
 <!-- ════════════════════════  DIVIDER  ════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+<img src="./assets/flux-divider.svg" width="100%" alt="" />
 
 <!-- ───────────────────────────  ABOUT  ────────────────────────────── -->
+<div id="about"></div>
+
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
@@ -44,12 +47,25 @@ ai:         CrewAI · LLMs · Multi-Agent Orchestration
 location:   Ottawa, Canada
 ```
 
+- **Now building** &nbsp;**Fintech architectures**, **algorithmic trading systems**, and **Multi-Agent AI**
+- **Tech Stack** &nbsp;TypeScript, Python, C#, Kotlin, Java, React, React Native, TailwindCSS
+- **Finance & Quant** &nbsp;Plataformas de Pagamento Instantâneo, cTrader (cBots), MQL4, Análise de Cointegração
+- **AI & Automação** &nbsp;CrewAI, LLMs, Python Scripts, Telegram Bots
+
 <br/>
 
 <!-- ════════════════════════  DIVIDER  ════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+<img src="./assets/flux-divider.svg" width="100%" alt="" />
 
 <!-- ─────────────────────────  GITHUB STATS  ─────────────── -->
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2 style="display: inline-block;">Analytics</h2>
+    </summary>
+  </ul>
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CostaJr007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Estatísticas do CostaJr007" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostaJr007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Linguagens Principais" width="48%" />
