@@ -10,16 +10,16 @@
 
 <!--Tagline-->
 <p align="center">
-  Data Engineer & SecOps Analyst based in Ottawa &nbsp;·&nbsp; Securing and Automating Systems
+  Data Engineer & AI Specialist based in Ottawa &nbsp;·&nbsp; Cloud & SecOps Enthusiast
 </p>
 
 <!--Badges-->
 <p align="center">
   <img src="https://img.shields.io/badge/☁️_Data_Engineering-555?style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🔒_SecOps_%26_SIEM-555?style=flat-square" />
+  <img src="https://img.shields.io/badge/🤖_AI_%26_Machine_Learning-555?style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/📈_Quantitative_Analysis-555?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔒_Cloud_%26_SecOps-555?style=flat-square" />
 </p>
 
 <!--horizontal divider (gradient)-->
@@ -34,10 +34,10 @@
 
 
 <p align="center">
-  ✔️ Data Engineer and SecOps Analyst with a background in <strong>Applied Mathematics</strong><br/>
-  ✔️ Currently working on <strong>automated data pipelines, SIEM/SOAR workflows, and quantitative models</strong><br/>
-  ✔️ Learning <strong>Advanced GCP Architecture, Cloud Security, and Prompt Engineering</strong><br/>
-  ✔️ Interested in <strong>ETL/ELT processes, security operations, and anomaly detection</strong><br/>
+  ✔️ Data Engineer and AI Specialist with a background in <strong>Applied Mathematics</strong><br/>
+  ✔️ Currently working on <strong>automated data pipelines, AI integrations (LLMs), and cloud infrastructure</strong><br/>
+  ✔️ Learning <strong>Advanced GCP Architecture, Prompt Engineering, and Cloud Security</strong><br/>
+  ✔️ Interested in <strong>ETL/ELT processes, machine learning models, and security operations (SecOps)</strong><br/>
   ✔️ Reach me at <a href="mailto:adeilsonjc@gmail.com">adeilsonjc@gmail.com</a> | Ottawa, ON
 </p>
 
@@ -55,7 +55,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; background: transparent;">
   <tr>
     <td align="center" valign="top" style="border: none; padding: 10px;">
-      <img src="https://skillicons.dev/icons?i=python,sql,gcp,git,bash,linux,vscode&perline=4" />
+      <img src="https://skillicons.dev/icons?i=python,postgres,gcp,docker,git,bash,linux,vscode&perline=4" />
     </td>
     <td align="center" valign="top" style="border: none; padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostaJr007&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8" />
