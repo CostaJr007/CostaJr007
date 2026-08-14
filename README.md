@@ -58,7 +58,7 @@
       <img src="https://skillicons.dev/icons?i=python,postgres,gcp,docker,git,bash,linux,vscode&perline=4" />
     </td>
     <td align="center" valign="top" style="border: none; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostaJr007&layout=compact&theme=dark&hide_border=true&bg_color=00000000&langs_count=8" />
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CostaJr007&layout=compact&theme=dark&hide_border=true&bg_color=00000000&langs_count=8" />
       <br/>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=CostaJr007&theme=dark&hide_border=true" />
     </td>
