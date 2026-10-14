@@ -1,26 +1,21 @@
 # Adeilson Costa
 
-Data engineer based in Ottawa. I build trading systems, fintech infrastructure, and AI tooling.
+Ottawa. Looking for data analyst / entry-level data engineer work.
 
-Background in applied math. Day to day it's mostly Python, TypeScript, and C# — pipelines, backtesting engines, and services that run in production.
+Currently in the NPower Canada AI & Data Analytics program (Nov 2026 – Mar 2027). Working toward the IBM Data Analyst Professional Certificate + Google AI Essentials. Day to day: SQL, Python, Excel, data cleaning, dashboards, ETL basics.
 
-## Now
+Background in applied math. Before NPower I was building market data pipelines and analysis projects in Python — ingest, clean, store in Postgres, visualize with Streamlit.
 
-- Quant models for B3 and crypto: pairs trading, volatility, options positioning
-- Payment infra for Canadian small businesses (Interac, QR, NFC)
-- Agent setups for codegen and research workflows
+## Projects
 
-A few repos that reflect this:
-
-- [b3-statistical-arbitrage-pairs-trading](https://github.com/CostaJr007/b3-statistical-arbitrage-pairs-trading) — cointegration, OU, z-score backtests
-- [b3-vix-volatility-engine](https://github.com/CostaJr007/b3-vix-volatility-engine) — VIX replication, GARCH, yield curve discounting
-- [crypto-options-gex](https://github.com/CostaJr007/crypto-options-gex) — positioning and volatility smile
-- [congress-quant-tracker](https://github.com/CostaJr007/congress-quant-tracker) — House/Senate filings + returns
-- [northpayments](https://github.com/CostaJr007/northpayments) — QR / NFC / Interac payments
+- [crypto-etl-pipeline](https://github.com/CostaJr007/crypto-etl-pipeline) — end-to-end ETL: API ingest, SQL models, Streamlit, Docker
+- [congress-quant-tracker](https://github.com/CostaJr007/congress-quant-tracker) — House/Senate filings pipeline, returns and leaderboard
+- [b3-index-cash-and-carry](https://github.com/CostaJr007/b3-index-cash-and-carry) — futures basis, cost-of-carry, DI curve
+- [b3-statistical-arbitrage-pairs-trading](https://github.com/CostaJr007/b3-statistical-arbitrage-pairs-trading) — cointegration checks, backtests
 
 ## Stack
 
-Python, TypeScript, C#, Postgres, Docker, GCP, Linux.
+Python (pandas), SQL (Postgres), Excel, Streamlit, Docker, Git, Linux. Learning Tableau / Power BI in the program.
 
 ## Contact
 
