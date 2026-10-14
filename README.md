@@ -8,9 +8,10 @@ B.Sc. in Applied Mathematics. Before NPower I worked with data in two roles: bac
 
 ## Work
 
-- **Smart Prop Trader** (2023–2024) — FX trader & data analyst. Python backtests, risk reporting automation, anomaly detection for derivatives.
-- **Hidra** (2024–2025) — ran Python data pipelines and reporting workflows. Cut client response times ~60%.
 - **Walmart Canada, Ottawa** (2026–now) — overnight ops. Reconcile scanner inventory against the central stock DB, FIFO replenishment.
+- **Hidra** (2024–2025) — ran Python data pipelines and reporting workflows. Cut client response times ~60%.
+- **Smart Prop Trader** (2023–2024) — FX trader & data analyst. Python backtests, risk reporting automation, anomaly detection for derivatives.
+- **JME Projetos, Brazil** (2015–2019) — civil engineering intern. Checklists that cut approval rework ~40%, BOQs and cost estimates across 140+ sites.
 
 ## Projects
 
